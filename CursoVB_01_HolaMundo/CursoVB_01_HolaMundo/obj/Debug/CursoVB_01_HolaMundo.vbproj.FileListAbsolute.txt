@@ -1,0 +1,9 @@
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_01_HolaMundo\CursoVB_01_HolaMundo\bin\Debug\CursoVB_01_HolaMundo.exe
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_01_HolaMundo\CursoVB_01_HolaMundo\bin\Debug\CursoVB_01_HolaMundo.pdb
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_01_HolaMundo\CursoVB_01_HolaMundo\bin\Debug\CursoVB_01_HolaMundo.xml
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_01_HolaMundo\CursoVB_01_HolaMundo\obj\Debug\CursoVB_01_HolaMundo.Form1.resources
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_01_HolaMundo\CursoVB_01_HolaMundo\obj\Debug\CursoVB_01_HolaMundo.Resources.resources
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_01_HolaMundo\CursoVB_01_HolaMundo\obj\Debug\CursoVB_01_HolaMundo.vbproj.GenerateResource.Cache
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_01_HolaMundo\CursoVB_01_HolaMundo\obj\Debug\CursoVB_01_HolaMundo.exe
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_01_HolaMundo\CursoVB_01_HolaMundo\obj\Debug\CursoVB_01_HolaMundo.xml
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_01_HolaMundo\CursoVB_01_HolaMundo\obj\Debug\CursoVB_01_HolaMundo.pdb

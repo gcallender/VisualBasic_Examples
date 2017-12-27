@@ -1,0 +1,9 @@
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_10_RadioButton\CursoVB_10_RadioButton\bin\Debug\CursoVB_10_RadioButton.exe
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_10_RadioButton\CursoVB_10_RadioButton\bin\Debug\CursoVB_10_RadioButton.pdb
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_10_RadioButton\CursoVB_10_RadioButton\bin\Debug\CursoVB_10_RadioButton.xml
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_10_RadioButton\CursoVB_10_RadioButton\obj\Debug\CursoVB_10_RadioButton.Form1.resources
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_10_RadioButton\CursoVB_10_RadioButton\obj\Debug\CursoVB_10_RadioButton.Resources.resources
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_10_RadioButton\CursoVB_10_RadioButton\obj\Debug\CursoVB_10_RadioButton.vbproj.GenerateResource.Cache
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_10_RadioButton\CursoVB_10_RadioButton\obj\Debug\CursoVB_10_RadioButton.exe
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_10_RadioButton\CursoVB_10_RadioButton\obj\Debug\CursoVB_10_RadioButton.xml
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_10_RadioButton\CursoVB_10_RadioButton\obj\Debug\CursoVB_10_RadioButton.pdb

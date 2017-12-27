@@ -1,0 +1,9 @@
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_09_Sentencia_If\CursoVB_09_Sentencia_If\bin\Debug\CursoVB_09_Sentencia_If.exe
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_09_Sentencia_If\CursoVB_09_Sentencia_If\bin\Debug\CursoVB_09_Sentencia_If.pdb
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_09_Sentencia_If\CursoVB_09_Sentencia_If\bin\Debug\CursoVB_09_Sentencia_If.xml
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_09_Sentencia_If\CursoVB_09_Sentencia_If\obj\Debug\CursoVB_09_Sentencia_If.Form1.resources
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_09_Sentencia_If\CursoVB_09_Sentencia_If\obj\Debug\CursoVB_09_Sentencia_If.Resources.resources
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_09_Sentencia_If\CursoVB_09_Sentencia_If\obj\Debug\CursoVB_09_Sentencia_If.vbproj.GenerateResource.Cache
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_09_Sentencia_If\CursoVB_09_Sentencia_If\obj\Debug\CursoVB_09_Sentencia_If.exe
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_09_Sentencia_If\CursoVB_09_Sentencia_If\obj\Debug\CursoVB_09_Sentencia_If.xml
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_09_Sentencia_If\CursoVB_09_Sentencia_If\obj\Debug\CursoVB_09_Sentencia_If.pdb

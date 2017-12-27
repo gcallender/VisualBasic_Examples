@@ -1,0 +1,9 @@
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_06_Botones\CursoVB_06_Botones\bin\Debug\CursoVB_06_Botones.exe
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_06_Botones\CursoVB_06_Botones\bin\Debug\CursoVB_06_Botones.pdb
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_06_Botones\CursoVB_06_Botones\bin\Debug\CursoVB_06_Botones.xml
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_06_Botones\CursoVB_06_Botones\obj\Debug\CursoVB_06_Botones.Form1.resources
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_06_Botones\CursoVB_06_Botones\obj\Debug\CursoVB_06_Botones.Resources.resources
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_06_Botones\CursoVB_06_Botones\obj\Debug\CursoVB_06_Botones.vbproj.GenerateResource.Cache
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_06_Botones\CursoVB_06_Botones\obj\Debug\CursoVB_06_Botones.exe
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_06_Botones\CursoVB_06_Botones\obj\Debug\CursoVB_06_Botones.xml
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_06_Botones\CursoVB_06_Botones\obj\Debug\CursoVB_06_Botones.pdb

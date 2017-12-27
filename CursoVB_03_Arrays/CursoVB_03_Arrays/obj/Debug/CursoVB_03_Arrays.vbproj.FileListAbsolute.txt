@@ -1,0 +1,9 @@
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_03_Arrays\CursoVB_03_Arrays\bin\Debug\CursoVB_03_Arrays.exe
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_03_Arrays\CursoVB_03_Arrays\bin\Debug\CursoVB_03_Arrays.pdb
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_03_Arrays\CursoVB_03_Arrays\bin\Debug\CursoVB_03_Arrays.xml
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_03_Arrays\CursoVB_03_Arrays\obj\Debug\CursoVB_03_Arrays.Form1.resources
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_03_Arrays\CursoVB_03_Arrays\obj\Debug\CursoVB_03_Arrays.Resources.resources
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_03_Arrays\CursoVB_03_Arrays\obj\Debug\CursoVB_03_Arrays.vbproj.GenerateResource.Cache
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_03_Arrays\CursoVB_03_Arrays\obj\Debug\CursoVB_03_Arrays.exe
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_03_Arrays\CursoVB_03_Arrays\obj\Debug\CursoVB_03_Arrays.xml
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_03_Arrays\CursoVB_03_Arrays\obj\Debug\CursoVB_03_Arrays.pdb

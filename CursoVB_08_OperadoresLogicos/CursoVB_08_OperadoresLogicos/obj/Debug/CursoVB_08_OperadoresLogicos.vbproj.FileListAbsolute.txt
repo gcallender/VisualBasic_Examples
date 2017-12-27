@@ -1,0 +1,9 @@
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_08_OperadoresLogicos\CursoVB_08_OperadoresLogicos\bin\Debug\CursoVB_08_OperadoresLogicos.exe
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_08_OperadoresLogicos\CursoVB_08_OperadoresLogicos\bin\Debug\CursoVB_08_OperadoresLogicos.pdb
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_08_OperadoresLogicos\CursoVB_08_OperadoresLogicos\bin\Debug\CursoVB_08_OperadoresLogicos.xml
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_08_OperadoresLogicos\CursoVB_08_OperadoresLogicos\obj\Debug\CursoVB_08_OperadoresLogicos.Form1.resources
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_08_OperadoresLogicos\CursoVB_08_OperadoresLogicos\obj\Debug\CursoVB_08_OperadoresLogicos.Resources.resources
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_08_OperadoresLogicos\CursoVB_08_OperadoresLogicos\obj\Debug\CursoVB_08_OperadoresLogicos.vbproj.GenerateResource.Cache
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_08_OperadoresLogicos\CursoVB_08_OperadoresLogicos\obj\Debug\CursoVB_08_OperadoresLogicos.exe
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_08_OperadoresLogicos\CursoVB_08_OperadoresLogicos\obj\Debug\CursoVB_08_OperadoresLogicos.xml
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_08_OperadoresLogicos\CursoVB_08_OperadoresLogicos\obj\Debug\CursoVB_08_OperadoresLogicos.pdb

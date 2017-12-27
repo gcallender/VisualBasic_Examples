@@ -1,0 +1,9 @@
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_02_Variables\CursoVB_02_Variables\bin\Debug\CursoVB_02_Variables.exe
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_02_Variables\CursoVB_02_Variables\bin\Debug\CursoVB_02_Variables.pdb
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_02_Variables\CursoVB_02_Variables\bin\Debug\CursoVB_02_Variables.xml
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_02_Variables\CursoVB_02_Variables\obj\Debug\CursoVB_02_Variables.Form1.resources
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_02_Variables\CursoVB_02_Variables\obj\Debug\CursoVB_02_Variables.Resources.resources
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_02_Variables\CursoVB_02_Variables\obj\Debug\CursoVB_02_Variables.vbproj.GenerateResource.Cache
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_02_Variables\CursoVB_02_Variables\obj\Debug\CursoVB_02_Variables.exe
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_02_Variables\CursoVB_02_Variables\obj\Debug\CursoVB_02_Variables.xml
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_02_Variables\CursoVB_02_Variables\obj\Debug\CursoVB_02_Variables.pdb

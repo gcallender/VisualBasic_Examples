@@ -1,0 +1,9 @@
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_04_Operadores\CursoVB_04_Operadores\bin\Debug\CursoVB_04_Operadores.exe
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_04_Operadores\CursoVB_04_Operadores\bin\Debug\CursoVB_04_Operadores.pdb
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_04_Operadores\CursoVB_04_Operadores\bin\Debug\CursoVB_04_Operadores.xml
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_04_Operadores\CursoVB_04_Operadores\obj\Debug\CursoVB_04_Operadores.Form1.resources
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_04_Operadores\CursoVB_04_Operadores\obj\Debug\CursoVB_04_Operadores.Resources.resources
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_04_Operadores\CursoVB_04_Operadores\obj\Debug\CursoVB_04_Operadores.vbproj.GenerateResource.Cache
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_04_Operadores\CursoVB_04_Operadores\obj\Debug\CursoVB_04_Operadores.exe
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_04_Operadores\CursoVB_04_Operadores\obj\Debug\CursoVB_04_Operadores.xml
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_04_Operadores\CursoVB_04_Operadores\obj\Debug\CursoVB_04_Operadores.pdb
