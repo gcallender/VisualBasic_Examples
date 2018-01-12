@@ -1,0 +1,9 @@
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_15_MenuStrip\CursoVB_15_MenuStrip\bin\Debug\CursoVB_15_MenuStrip.exe
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_15_MenuStrip\CursoVB_15_MenuStrip\bin\Debug\CursoVB_15_MenuStrip.pdb
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_15_MenuStrip\CursoVB_15_MenuStrip\bin\Debug\CursoVB_15_MenuStrip.xml
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_15_MenuStrip\CursoVB_15_MenuStrip\obj\Debug\CursoVB_15_MenuStrip.Form1.resources
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_15_MenuStrip\CursoVB_15_MenuStrip\obj\Debug\CursoVB_15_MenuStrip.Resources.resources
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_15_MenuStrip\CursoVB_15_MenuStrip\obj\Debug\CursoVB_15_MenuStrip.vbproj.GenerateResource.Cache
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_15_MenuStrip\CursoVB_15_MenuStrip\obj\Debug\CursoVB_15_MenuStrip.exe
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_15_MenuStrip\CursoVB_15_MenuStrip\obj\Debug\CursoVB_15_MenuStrip.xml
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_15_MenuStrip\CursoVB_15_MenuStrip\obj\Debug\CursoVB_15_MenuStrip.pdb

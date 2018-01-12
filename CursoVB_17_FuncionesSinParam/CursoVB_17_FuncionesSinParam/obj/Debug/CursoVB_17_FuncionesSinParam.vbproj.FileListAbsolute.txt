@@ -1,0 +1,9 @@
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_17_FuncionesSinParam\CursoVB_17_FuncionesSinParam\bin\Debug\CursoVB_17_FuncionesSinParam.exe
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_17_FuncionesSinParam\CursoVB_17_FuncionesSinParam\bin\Debug\CursoVB_17_FuncionesSinParam.pdb
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_17_FuncionesSinParam\CursoVB_17_FuncionesSinParam\bin\Debug\CursoVB_17_FuncionesSinParam.xml
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_17_FuncionesSinParam\CursoVB_17_FuncionesSinParam\obj\Debug\CursoVB_17_FuncionesSinParam.Form1.resources
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_17_FuncionesSinParam\CursoVB_17_FuncionesSinParam\obj\Debug\CursoVB_17_FuncionesSinParam.Resources.resources
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_17_FuncionesSinParam\CursoVB_17_FuncionesSinParam\obj\Debug\CursoVB_17_FuncionesSinParam.vbproj.GenerateResource.Cache
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_17_FuncionesSinParam\CursoVB_17_FuncionesSinParam\obj\Debug\CursoVB_17_FuncionesSinParam.exe
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_17_FuncionesSinParam\CursoVB_17_FuncionesSinParam\obj\Debug\CursoVB_17_FuncionesSinParam.xml
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_17_FuncionesSinParam\CursoVB_17_FuncionesSinParam\obj\Debug\CursoVB_17_FuncionesSinParam.pdb

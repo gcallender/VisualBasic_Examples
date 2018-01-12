@@ -1,0 +1,9 @@
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_13_DoWhile\CursoVB_13_DoWhile\bin\Debug\CursoVB_13_DoWhile.exe
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_13_DoWhile\CursoVB_13_DoWhile\bin\Debug\CursoVB_13_DoWhile.pdb
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_13_DoWhile\CursoVB_13_DoWhile\bin\Debug\CursoVB_13_DoWhile.xml
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_13_DoWhile\CursoVB_13_DoWhile\obj\Debug\CursoVB_13_DoWhile.Form1.resources
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_13_DoWhile\CursoVB_13_DoWhile\obj\Debug\CursoVB_13_DoWhile.Resources.resources
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_13_DoWhile\CursoVB_13_DoWhile\obj\Debug\CursoVB_13_DoWhile.vbproj.GenerateResource.Cache
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_13_DoWhile\CursoVB_13_DoWhile\obj\Debug\CursoVB_13_DoWhile.exe
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_13_DoWhile\CursoVB_13_DoWhile\obj\Debug\CursoVB_13_DoWhile.xml
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_13_DoWhile\CursoVB_13_DoWhile\obj\Debug\CursoVB_13_DoWhile.pdb

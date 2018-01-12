@@ -1,0 +1,9 @@
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_14_Select_Case\CursoVB_14_Select_Case\bin\Debug\CursoVB_14_Select_Case.exe
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_14_Select_Case\CursoVB_14_Select_Case\bin\Debug\CursoVB_14_Select_Case.pdb
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_14_Select_Case\CursoVB_14_Select_Case\bin\Debug\CursoVB_14_Select_Case.xml
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_14_Select_Case\CursoVB_14_Select_Case\obj\Debug\CursoVB_14_Select_Case.Form1.resources
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_14_Select_Case\CursoVB_14_Select_Case\obj\Debug\CursoVB_14_Select_Case.Resources.resources
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_14_Select_Case\CursoVB_14_Select_Case\obj\Debug\CursoVB_14_Select_Case.vbproj.GenerateResource.Cache
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_14_Select_Case\CursoVB_14_Select_Case\obj\Debug\CursoVB_14_Select_Case.exe
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_14_Select_Case\CursoVB_14_Select_Case\obj\Debug\CursoVB_14_Select_Case.xml
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_14_Select_Case\CursoVB_14_Select_Case\obj\Debug\CursoVB_14_Select_Case.pdb

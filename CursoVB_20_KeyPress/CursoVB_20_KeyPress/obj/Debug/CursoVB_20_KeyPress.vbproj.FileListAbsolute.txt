@@ -1,0 +1,9 @@
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_20_KeyPress\CursoVB_20_KeyPress\bin\Debug\CursoVB_20_KeyPress.exe
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_20_KeyPress\CursoVB_20_KeyPress\bin\Debug\CursoVB_20_KeyPress.pdb
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_20_KeyPress\CursoVB_20_KeyPress\bin\Debug\CursoVB_20_KeyPress.xml
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_20_KeyPress\CursoVB_20_KeyPress\obj\Debug\CursoVB_20_KeyPress.Form1.resources
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_20_KeyPress\CursoVB_20_KeyPress\obj\Debug\CursoVB_20_KeyPress.Resources.resources
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_20_KeyPress\CursoVB_20_KeyPress\obj\Debug\CursoVB_20_KeyPress.vbproj.GenerateResource.Cache
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_20_KeyPress\CursoVB_20_KeyPress\obj\Debug\CursoVB_20_KeyPress.exe
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_20_KeyPress\CursoVB_20_KeyPress\obj\Debug\CursoVB_20_KeyPress.xml
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_20_KeyPress\CursoVB_20_KeyPress\obj\Debug\CursoVB_20_KeyPress.pdb

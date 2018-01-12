@@ -1,0 +1,9 @@
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_18_FuncionesConParam\CursoVB_18_FuncionesConParam\bin\Debug\CursoVB_18_FuncionesConParam.exe
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_18_FuncionesConParam\CursoVB_18_FuncionesConParam\bin\Debug\CursoVB_18_FuncionesConParam.pdb
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_18_FuncionesConParam\CursoVB_18_FuncionesConParam\bin\Debug\CursoVB_18_FuncionesConParam.xml
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_18_FuncionesConParam\CursoVB_18_FuncionesConParam\obj\Debug\CursoVB_18_FuncionesConParam.Form1.resources
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_18_FuncionesConParam\CursoVB_18_FuncionesConParam\obj\Debug\CursoVB_18_FuncionesConParam.Resources.resources
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_18_FuncionesConParam\CursoVB_18_FuncionesConParam\obj\Debug\CursoVB_18_FuncionesConParam.vbproj.GenerateResource.Cache
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_18_FuncionesConParam\CursoVB_18_FuncionesConParam\obj\Debug\CursoVB_18_FuncionesConParam.exe
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_18_FuncionesConParam\CursoVB_18_FuncionesConParam\obj\Debug\CursoVB_18_FuncionesConParam.xml
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_18_FuncionesConParam\CursoVB_18_FuncionesConParam\obj\Debug\CursoVB_18_FuncionesConParam.pdb

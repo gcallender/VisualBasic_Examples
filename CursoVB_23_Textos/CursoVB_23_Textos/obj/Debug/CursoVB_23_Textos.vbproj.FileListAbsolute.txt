@@ -1,0 +1,9 @@
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_23_Textos\CursoVB_23_Textos\bin\Debug\CursoVB_23_Textos.exe
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_23_Textos\CursoVB_23_Textos\bin\Debug\CursoVB_23_Textos.pdb
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_23_Textos\CursoVB_23_Textos\bin\Debug\CursoVB_23_Textos.xml
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_23_Textos\CursoVB_23_Textos\obj\Debug\CursoVB_23_Textos.Form1.resources
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_23_Textos\CursoVB_23_Textos\obj\Debug\CursoVB_23_Textos.Resources.resources
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_23_Textos\CursoVB_23_Textos\obj\Debug\CursoVB_23_Textos.vbproj.GenerateResource.Cache
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_23_Textos\CursoVB_23_Textos\obj\Debug\CursoVB_23_Textos.exe
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_23_Textos\CursoVB_23_Textos\obj\Debug\CursoVB_23_Textos.xml
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_23_Textos\CursoVB_23_Textos\obj\Debug\CursoVB_23_Textos.pdb

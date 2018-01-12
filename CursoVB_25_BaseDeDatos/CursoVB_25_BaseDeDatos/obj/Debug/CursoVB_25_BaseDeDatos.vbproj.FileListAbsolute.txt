@@ -1,0 +1,11 @@
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_25_BaseDeDatos\CursoVB_25_BaseDeDatos\bin\Debug\CursoVB_25_BaseDeDatos.exe
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_25_BaseDeDatos\CursoVB_25_BaseDeDatos\bin\Debug\CursoVB_25_BaseDeDatos.pdb
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_25_BaseDeDatos\CursoVB_25_BaseDeDatos\bin\Debug\CursoVB_25_BaseDeDatos.xml
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_25_BaseDeDatos\CursoVB_25_BaseDeDatos\obj\Debug\CursoVB_25_BaseDeDatos.Form1.resources
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_25_BaseDeDatos\CursoVB_25_BaseDeDatos\obj\Debug\CursoVB_25_BaseDeDatos.Resources.resources
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_25_BaseDeDatos\CursoVB_25_BaseDeDatos\obj\Debug\CursoVB_25_BaseDeDatos.vbproj.GenerateResource.Cache
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_25_BaseDeDatos\CursoVB_25_BaseDeDatos\obj\Debug\CursoVB_25_BaseDeDatos.exe
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_25_BaseDeDatos\CursoVB_25_BaseDeDatos\obj\Debug\CursoVB_25_BaseDeDatos.xml
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_25_BaseDeDatos\CursoVB_25_BaseDeDatos\obj\Debug\CursoVB_25_BaseDeDatos.pdb
+C:\Users\Gonz\documents\visual studio 2013\Projects\CursoVB_25_BaseDeDatos\CursoVB_25_BaseDeDatos\obj\Debug\CursoVB_25_BaseDeDatos.vbprojResolveAssemblyReference.cache
+C:\Users\Gonz\documents\visual studio 2013\Projects\CursoVB_25_BaseDeDatos\CursoVB_25_BaseDeDatos\obj\Debug\CursoVB_25_BaseDeDatos.msgHelp.resources

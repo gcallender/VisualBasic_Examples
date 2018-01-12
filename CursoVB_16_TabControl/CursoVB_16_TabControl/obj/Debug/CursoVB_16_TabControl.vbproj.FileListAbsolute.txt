@@ -1,0 +1,9 @@
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_16_TabControl\CursoVB_16_TabControl\bin\Debug\CursoVB_16_TabControl.exe
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_16_TabControl\CursoVB_16_TabControl\bin\Debug\CursoVB_16_TabControl.pdb
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_16_TabControl\CursoVB_16_TabControl\bin\Debug\CursoVB_16_TabControl.xml
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_16_TabControl\CursoVB_16_TabControl\obj\Debug\CursoVB_16_TabControl.Form1.resources
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_16_TabControl\CursoVB_16_TabControl\obj\Debug\CursoVB_16_TabControl.Resources.resources
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_16_TabControl\CursoVB_16_TabControl\obj\Debug\CursoVB_16_TabControl.vbproj.GenerateResource.Cache
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_16_TabControl\CursoVB_16_TabControl\obj\Debug\CursoVB_16_TabControl.exe
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_16_TabControl\CursoVB_16_TabControl\obj\Debug\CursoVB_16_TabControl.xml
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_16_TabControl\CursoVB_16_TabControl\obj\Debug\CursoVB_16_TabControl.pdb

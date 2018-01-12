@@ -1,0 +1,9 @@
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_12_Ciclo_For\CursoVB_12_Ciclo_For\bin\Debug\CursoVB_12_Ciclo_For.exe
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_12_Ciclo_For\CursoVB_12_Ciclo_For\bin\Debug\CursoVB_12_Ciclo_For.pdb
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_12_Ciclo_For\CursoVB_12_Ciclo_For\bin\Debug\CursoVB_12_Ciclo_For.xml
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_12_Ciclo_For\CursoVB_12_Ciclo_For\obj\Debug\CursoVB_12_Ciclo_For.Form1.resources
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_12_Ciclo_For\CursoVB_12_Ciclo_For\obj\Debug\CursoVB_12_Ciclo_For.Resources.resources
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_12_Ciclo_For\CursoVB_12_Ciclo_For\obj\Debug\CursoVB_12_Ciclo_For.vbproj.GenerateResource.Cache
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_12_Ciclo_For\CursoVB_12_Ciclo_For\obj\Debug\CursoVB_12_Ciclo_For.exe
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_12_Ciclo_For\CursoVB_12_Ciclo_For\obj\Debug\CursoVB_12_Ciclo_For.xml
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_12_Ciclo_For\CursoVB_12_Ciclo_For\obj\Debug\CursoVB_12_Ciclo_For.pdb

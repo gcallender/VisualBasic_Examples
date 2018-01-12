@@ -1,0 +1,9 @@
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_21_OnlyNumbers\CursoVB_21_OnlyNumbers\bin\Debug\CursoVB_21_OnlyNumbers.exe
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_21_OnlyNumbers\CursoVB_21_OnlyNumbers\bin\Debug\CursoVB_21_OnlyNumbers.pdb
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_21_OnlyNumbers\CursoVB_21_OnlyNumbers\bin\Debug\CursoVB_21_OnlyNumbers.xml
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_21_OnlyNumbers\CursoVB_21_OnlyNumbers\obj\Debug\CursoVB_21_OnlyNumbers.Form1.resources
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_21_OnlyNumbers\CursoVB_21_OnlyNumbers\obj\Debug\CursoVB_21_OnlyNumbers.Resources.resources
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_21_OnlyNumbers\CursoVB_21_OnlyNumbers\obj\Debug\CursoVB_21_OnlyNumbers.vbproj.GenerateResource.Cache
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_21_OnlyNumbers\CursoVB_21_OnlyNumbers\obj\Debug\CursoVB_21_OnlyNumbers.exe
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_21_OnlyNumbers\CursoVB_21_OnlyNumbers\obj\Debug\CursoVB_21_OnlyNumbers.xml
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_21_OnlyNumbers\CursoVB_21_OnlyNumbers\obj\Debug\CursoVB_21_OnlyNumbers.pdb

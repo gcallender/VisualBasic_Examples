@@ -1,0 +1,9 @@
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_22_OnlyLetters\CursoVB_22_OnlyLetters\bin\Debug\CursoVB_22_OnlyLetters.exe
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_22_OnlyLetters\CursoVB_22_OnlyLetters\bin\Debug\CursoVB_22_OnlyLetters.pdb
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_22_OnlyLetters\CursoVB_22_OnlyLetters\bin\Debug\CursoVB_22_OnlyLetters.xml
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_22_OnlyLetters\CursoVB_22_OnlyLetters\obj\Debug\CursoVB_22_OnlyLetters.Form1.resources
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_22_OnlyLetters\CursoVB_22_OnlyLetters\obj\Debug\CursoVB_22_OnlyLetters.Resources.resources
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_22_OnlyLetters\CursoVB_22_OnlyLetters\obj\Debug\CursoVB_22_OnlyLetters.vbproj.GenerateResource.Cache
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_22_OnlyLetters\CursoVB_22_OnlyLetters\obj\Debug\CursoVB_22_OnlyLetters.exe
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_22_OnlyLetters\CursoVB_22_OnlyLetters\obj\Debug\CursoVB_22_OnlyLetters.xml
+c:\users\gonz\documents\visual studio 2013\Projects\CursoVB_22_OnlyLetters\CursoVB_22_OnlyLetters\obj\Debug\CursoVB_22_OnlyLetters.pdb
